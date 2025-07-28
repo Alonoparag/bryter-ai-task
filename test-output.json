@@ -1,0 +1,1989 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": " Alon Parag\nAl Engineer | Full Stack Engineer\nPhone: +49 176 467 80419\nEmail: allon parag@gmail.com\nLinkedin: https:I/linkedin com/in/alon-parag\nGithub: https Ilgithub com/alonoparag\n\nSummary\nAl Engineer with a strong background in machine learning, data engineering, and complex system\ndevelopment: Experienced in designing and implementing RAG systems and information retrieval\nsolutions. Skilled in Python, LangChain, and modern AIML frameworks. Passionate about innovation\nand leveraging emerging technologies to build scalable Al solutions. Strong analytical mindset with\nproven ability to work in fast-paced, evolving environments\n\nSkills\nTechnical Skills\nPython 5 YoE\n  Frameowork and libraries:\n    Langchain: 3 Years\n    Langgraph: 2 years\n    Pydantic: 4 years\n    FastAPI: 3 Years\n    Airflow: 5 years\n    SQLAlchemy: 5 years\n    Pytest: 5 years\nTypescript 3 YoE\n  Frameowork and libraries:\n    NestJS: 3 Years\n    Langchain-JS: 3 years\n    React: year\n    Vite:  year\n    TypeORM:   year\nDatabases and Infrastructure\n  Frameowork and libraries:\n    Postgres: 5 years\n    MongoDB: 3 years\n    Kafka: 4 years\n    AWS: 5 years\n    Docker: 5 years\nSoft Skills\n  Strong client communication & technical consulting abilities:\n  Problem-solving & critical thinking in data-driven projects:\n   Experience in collaborating with technical & non-technical stakeholders:\n   Ability to manage multiple projects in fast-paced environments\n  Proven leadership and mentoring abilities",
+      "md": "\n# Alon Parag\n\n# Al Engineer &#x26; Full Stack Engineer\n\nPhone: +49 176 467 80419\n\nEmail: allonparag@gmail.com\n\nLinkedin: https://linkedin.com/in/alon-parag\n\nGithub: https://github.com/alonoparag\n\n# Summary\n\nAl Engineer with a strong background in machine learning, data engineering, and complex system development: Experienced in designing and implementing RAG systems and information retrieval solutions. Skilled in Python, LangChain, and modern AIML frameworks. Passionate about innovation and leveraging emerging technologies to build scalable Al solutions. Strong analytical mindset with proven ability to work in fast-paced, evolving environments.\n\n# Skills\n\n# Technical Skills\n\n| Python                       | 5 YoE   |\n| ---------------------------- | ------- |\n| Framework and libraries:     |         |\n| Langchain                    | 3 Years |\n| Langgraph                    | 2 years |\n| Pydantic                     | 4 years |\n| FastAPI                      | 3 Years |\n| Airflow                      | 5 years |\n| SQLAlchemy                   | 5 years |\n| Pytest                       | 5 years |\n| Typescript                   | 3 YoE   |\n| Framework and libraries:     |         |\n| NestJS                       | 3 Years |\n| Langchain-JS                 | 3 years |\n| React                        | year    |\n| Vite                         | year    |\n| TypeORM                      | year    |\n| Databases and Infrastructure |         |\n| Postgres                     | 5 years |\n| MongoDB                      | 3 years |\n| Kafka                        | 4 years |\n| AWS                          | 5 years |\n| Docker                       | 5 years |\n\n# Soft Skills\n\n- Strong client communication &#x26; technical consulting abilities\n- Problem-solving &#x26; critical thinking in data-driven projects\n- Experience in collaborating with technical &#x26; non-technical stakeholders\n- Ability to manage multiple projects in fast-paced environments\n- Proven leadership and mentoring abilities\n\n",
+      "images": [
+        {
+          "name": "page_1.jpg",
+          "height": 842,
+          "width": 595,
+          "x": 0,
+          "y": 0,
+          "original_width": 1131,
+          "original_height": 1600,
+          "type": "full_page_screenshot",
+          "ocr": [
+            {
+              "x": 29,
+              "y": 62,
+              "w": 159,
+              "h": 39,
+              "confidence": 0.7841685974693438,
+              "text": "Alon Parag"
+            },
+            {
+              "x": 28,
+              "y": 104,
+              "w": 330,
+              "h": 30,
+              "confidence": 0.7372534157973999,
+              "text": "Al Engineer | Full Stack Engineer"
+            },
+            {
+              "x": 28,
+              "y": 138,
+              "w": 280,
+              "h": 28,
+              "confidence": 0.6135030803796176,
+              "text": "Phone: +49 176 467 80419"
+            },
+            {
+              "x": 28,
+              "y": 164,
+              "w": 314,
+              "h": 30,
+              "confidence": 0.8649840354961915,
+              "text": "Email: allon parag@gmail.com"
+            },
+            {
+              "x": 27,
+              "y": 187,
+              "w": 452,
+              "h": 36,
+              "confidence": 0.7000900589734227,
+              "text": "Linkedin: https:I/linkedin com/in/alon-parag"
+            },
+            {
+              "x": 25,
+              "y": 215,
+              "w": 400,
+              "h": 36,
+              "confidence": 0.7517752104194444,
+              "text": "Github: https Ilgithub com/alonoparag"
+            },
+            {
+              "x": 26,
+              "y": 303,
+              "w": 127,
+              "h": 40,
+              "confidence": 0.9731949673300316,
+              "text": "Summary"
+            },
+            {
+              "x": 27,
+              "y": 341,
+              "w": 988,
+              "h": 36,
+              "confidence": 0.7488325804147206,
+              "text": "Al Engineer with a strong background in machine learning, data engineering, and complex system"
+            },
+            {
+              "x": 27,
+              "y": 366,
+              "w": 986,
+              "h": 37,
+              "confidence": 0.8315977665022904,
+              "text": "development: Experienced in designing and implementing RAG systems and information retrieval"
+            },
+            {
+              "x": 26,
+              "y": 394,
+              "w": 1026,
+              "h": 33,
+              "confidence": 0.4990137321826008,
+              "text": "solutions. Skilled in Python, LangChain, and modern AIML frameworks. Passionate about innovation"
+            },
+            {
+              "x": 27,
+              "y": 419,
+              "w": 1006,
+              "h": 36,
+              "confidence": 0.7957040136486976,
+              "text": "and leveraging emerging technologies to build scalable Al solutions. Strong analytical mindset with"
+            },
+            {
+              "x": 26,
+              "y": 445,
+              "w": 599,
+              "h": 37,
+              "confidence": 0.8232297928216148,
+              "text": "proven ability to work in fast-paced, evolving environments"
+            },
+            {
+              "x": 28,
+              "y": 540,
+              "w": 84,
+              "h": 32,
+              "confidence": 0.9992745593852586,
+              "text": "Skills"
+            },
+            {
+              "x": 28,
+              "y": 604,
+              "w": 198,
+              "h": 32,
+              "confidence": 0.8951585897619898,
+              "text": "Technical Skills"
+            },
+            {
+              "x": 25,
+              "y": 635,
+              "w": 98,
+              "h": 41,
+              "confidence": 0.9992745593852586,
+              "text": "Python"
+            },
+            {
+              "x": 138,
+              "y": 640,
+              "w": 76,
+              "h": 30,
+              "confidence": 0.9911700347450979,
+              "text": "5 YoE"
+            },
+            {
+              "x": 62,
+              "y": 672,
+              "w": 272,
+              "h": 26,
+              "confidence": 0.8225934333423609,
+              "text": "Frameowork and libraries:"
+            },
+            {
+              "x": 95,
+              "y": 696,
+              "w": 199,
+              "h": 33,
+              "confidence": 0.9907432681876982,
+              "text": "Langchain: 3 Years"
+            },
+            {
+              "x": 95,
+              "y": 725,
+              "w": 201,
+              "h": 32,
+              "confidence": 0.8927749914175557,
+              "text": "Langgraph: 2 years"
+            },
+            {
+              "x": 96,
+              "y": 752,
+              "w": 178,
+              "h": 32,
+              "confidence": 0.9897225254689374,
+              "text": "Pydantic: 4 years"
+            },
+            {
+              "x": 96,
+              "y": 778,
+              "w": 172,
+              "h": 26,
+              "confidence": 0.672536628989111,
+              "text": "FastAPI: 3 Years"
+            },
+            {
+              "x": 102,
+              "y": 806,
+              "w": 162,
+              "h": 28,
+              "confidence": 0.7410144180968071,
+              "text": "Airflow: 5 years"
+            },
+            {
+              "x": 95,
+              "y": 830,
+              "w": 221,
+              "h": 32,
+              "confidence": 0.8480631771320126,
+              "text": "SQLAlchemy: 5 years"
+            },
+            {
+              "x": 96,
+              "y": 860,
+              "w": 72,
+              "h": 28,
+              "confidence": 0.7642602253035669,
+              "text": "Pytest:"
+            },
+            {
+              "x": 174,
+              "y": 862,
+              "w": 76,
+              "h": 26,
+              "confidence": 0.8604749035627454,
+              "text": "5 years"
+            },
+            {
+              "x": 27,
+              "y": 917,
+              "w": 140,
+              "h": 36,
+              "confidence": 0.9998286195972402,
+              "text": "Typescript"
+            },
+            {
+              "x": 180,
+              "y": 916,
+              "w": 76,
+              "h": 32,
+              "confidence": 0.9845518097725486,
+              "text": "3 YoE"
+            },
+            {
+              "x": 62,
+              "y": 948,
+              "w": 272,
+              "h": 28,
+              "confidence": 0.9374267480004959,
+              "text": "Frameowork and libraries:"
+            },
+            {
+              "x": 98,
+              "y": 976,
+              "w": 166,
+              "h": 26,
+              "confidence": 0.8172536703951901,
+              "text": "NestJS: 3 Years"
+            },
+            {
+              "x": 95,
+              "y": 1000,
+              "w": 229,
+              "h": 33,
+              "confidence": 0.7292922314487297,
+              "text": "Langchain-JS: 3 years"
+            },
+            {
+              "x": 96,
+              "y": 1030,
+              "w": 70,
+              "h": 26,
+              "confidence": 0.9987380319662297,
+              "text": "React:"
+            },
+            {
+              "x": 182,
+              "y": 1034,
+              "w": 52,
+              "h": 24,
+              "confidence": 0.9996097683906555,
+              "text": "year"
+            },
+            {
+              "x": 96,
+              "y": 1056,
+              "w": 52,
+              "h": 26,
+              "confidence": 0.7618868076568331,
+              "text": "Vite:"
+            },
+            {
+              "x": 164,
+              "y": 1060,
+              "w": 50,
+              "h": 26,
+              "confidence": 0.9995317459106445,
+              "text": "year"
+            },
+            {
+              "x": 95,
+              "y": 1080,
+              "w": 111,
+              "h": 33,
+              "confidence": 0.6215246390159509,
+              "text": "TypeORM:"
+            },
+            {
+              "x": 222,
+              "y": 1086,
+              "w": 52,
+              "h": 26,
+              "confidence": 0.5633711855508876,
+              "text": "year"
+            },
+            {
+              "x": 26,
+              "y": 1111,
+              "w": 361,
+              "h": 38,
+              "confidence": 0.7557480710492804,
+              "text": "Databases and Infrastructure"
+            },
+            {
+              "x": 62,
+              "y": 1146,
+              "w": 272,
+              "h": 28,
+              "confidence": 0.7720407138020747,
+              "text": "Frameowork and libraries:"
+            },
+            {
+              "x": 95,
+              "y": 1173,
+              "w": 183,
+              "h": 32,
+              "confidence": 0.8513106335079598,
+              "text": "Postgres: 5 years"
+            },
+            {
+              "x": 97,
+              "y": 1199,
+              "w": 191,
+              "h": 32,
+              "confidence": 0.9963957543943924,
+              "text": "MongoDB: 3 years"
+            },
+            {
+              "x": 96,
+              "y": 1226,
+              "w": 150,
+              "h": 30,
+              "confidence": 0.5954682430329385,
+              "text": "Kafka: 4 years"
+            },
+            {
+              "x": 96,
+              "y": 1254,
+              "w": 138,
+              "h": 30,
+              "confidence": 0.968997381554126,
+              "text": "AWS: 5 years"
+            },
+            {
+              "x": 96,
+              "y": 1280,
+              "w": 162,
+              "h": 30,
+              "confidence": 0.7466612316799734,
+              "text": "Docker: 5 years"
+            },
+            {
+              "x": 27,
+              "y": 1335,
+              "w": 134,
+              "h": 36,
+              "confidence": 0.99449331557866,
+              "text": "Soft Skills"
+            },
+            {
+              "x": 60,
+              "y": 1370,
+              "w": 620,
+              "h": 32,
+              "confidence": 0.7003126467375261,
+              "text": "Strong client communication & technical consulting abilities:"
+            },
+            {
+              "x": 60,
+              "y": 1393,
+              "w": 585,
+              "h": 38,
+              "confidence": 0.6249595662477111,
+              "text": "Problem-solving & critical thinking in data-driven projects:"
+            },
+            {
+              "x": 62,
+              "y": 1422,
+              "w": 730,
+              "h": 32,
+              "confidence": 0.7804082227419668,
+              "text": "Experience in collaborating with technical & non-technical stakeholders:"
+            },
+            {
+              "x": 62,
+              "y": 1449,
+              "w": 640,
+              "h": 32,
+              "confidence": 0.7078955811884015,
+              "text": "Ability to manage multiple projects in fast-paced environments"
+            },
+            {
+              "x": 61,
+              "y": 1473,
+              "w": 428,
+              "h": 36,
+              "confidence": 0.8289539077972387,
+              "text": "Proven leadership and mentoring abilities"
+            }
+          ]
+        }
+      ],
+      "charts": [],
+      "items": [
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Alon Parag",
+          "md": "# Alon Parag",
+          "bBox": {
+            "x": 29,
+            "y": 62,
+            "w": 159,
+            "h": 39
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Al Engineer &x26; Full Stack Engineer",
+          "md": "# Al Engineer &#x26; Full Stack Engineer",
+          "bBox": {
+            "x": 0,
+            "y": 0,
+            "w": 595,
+            "h": 842
+          }
+        },
+        {
+          "type": "text",
+          "value": "Phone: +49 176 467 80419\n\nEmail: allonparag@gmail.com\n\nLinkedin: https://linkedin.com/in/alon-parag\n\nGithub: https://github.com/alonoparag",
+          "md": "Phone: +49 176 467 80419\n\nEmail: allonparag@gmail.com\n\nLinkedin: https://linkedin.com/in/alon-parag\n\nGithub: https://github.com/alonoparag",
+          "bBox": {
+            "x": 28,
+            "y": 138,
+            "w": 314,
+            "h": 56
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Summary",
+          "md": "# Summary",
+          "bBox": {
+            "x": 26,
+            "y": 303,
+            "w": 127,
+            "h": 40
+          }
+        },
+        {
+          "type": "text",
+          "value": "Al Engineer with a strong background in machine learning, data engineering, and complex system development: Experienced in designing and implementing RAG systems and information retrieval solutions. Skilled in Python, LangChain, and modern AIML frameworks. Passionate about innovation and leveraging emerging technologies to build scalable Al solutions. Strong analytical mindset with proven ability to work in fast-paced, evolving environments.",
+          "md": "Al Engineer with a strong background in machine learning, data engineering, and complex system development: Experienced in designing and implementing RAG systems and information retrieval solutions. Skilled in Python, LangChain, and modern AIML frameworks. Passionate about innovation and leveraging emerging technologies to build scalable Al solutions. Strong analytical mindset with proven ability to work in fast-paced, evolving environments.",
+          "bBox": {
+            "x": 26,
+            "y": 341,
+            "w": 1026,
+            "h": 141
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Skills",
+          "md": "# Skills",
+          "bBox": {
+            "x": 28,
+            "y": 540,
+            "w": 84,
+            "h": 32
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Technical Skills",
+          "md": "# Technical Skills",
+          "bBox": {
+            "x": 28,
+            "y": 540,
+            "w": 198,
+            "h": 96
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Python",
+              "5 YoE"
+            ],
+            [
+              "Framework and libraries:",
+              ""
+            ],
+            [
+              "Langchain",
+              "3 Years"
+            ],
+            [
+              "Langgraph",
+              "2 years"
+            ],
+            [
+              "Pydantic",
+              "4 years"
+            ],
+            [
+              "FastAPI",
+              "3 Years"
+            ],
+            [
+              "Airflow",
+              "5 years"
+            ],
+            [
+              "SQLAlchemy",
+              "5 years"
+            ],
+            [
+              "Pytest",
+              "5 years"
+            ],
+            [
+              "Typescript",
+              "3 YoE"
+            ],
+            [
+              "Framework and libraries:",
+              ""
+            ],
+            [
+              "NestJS",
+              "3 Years"
+            ],
+            [
+              "Langchain-JS",
+              "3 years"
+            ],
+            [
+              "React",
+              "year"
+            ],
+            [
+              "Vite",
+              "year"
+            ],
+            [
+              "TypeORM",
+              "year"
+            ],
+            [
+              "Databases and Infrastructure",
+              ""
+            ],
+            [
+              "Postgres",
+              "5 years"
+            ],
+            [
+              "MongoDB",
+              "3 years"
+            ],
+            [
+              "Kafka",
+              "4 years"
+            ],
+            [
+              "AWS",
+              "5 years"
+            ],
+            [
+              "Docker",
+              "5 years"
+            ]
+          ],
+          "md": "| Python                       | 5 YoE   |\n| ---------------------------- | ------- |\n| Framework and libraries:     |         |\n| Langchain                    | 3 Years |\n| Langgraph                    | 2 years |\n| Pydantic                     | 4 years |\n| FastAPI                      | 3 Years |\n| Airflow                      | 5 years |\n| SQLAlchemy                   | 5 years |\n| Pytest                       | 5 years |\n| Typescript                   | 3 YoE   |\n| Framework and libraries:     |         |\n| NestJS                       | 3 Years |\n| Langchain-JS                 | 3 years |\n| React                        | year    |\n| Vite                         | year    |\n| TypeORM                      | year    |\n| Databases and Infrastructure |         |\n| Postgres                     | 5 years |\n| MongoDB                      | 3 years |\n| Kafka                        | 4 years |\n| AWS                          | 5 years |\n| Docker                       | 5 years |",
+          "isPerfectTable": true,
+          "csv": "\"Python\",\"5 YoE\"\n\"Framework and libraries:\",\"\"\n\"Langchain\",\"3 Years\"\n\"Langgraph\",\"2 years\"\n\"Pydantic\",\"4 years\"\n\"FastAPI\",\"3 Years\"\n\"Airflow\",\"5 years\"\n\"SQLAlchemy\",\"5 years\"\n\"Pytest\",\"5 years\"\n\"Typescript\",\"3 YoE\"\n\"Framework and libraries:\",\"\"\n\"NestJS\",\"3 Years\"\n\"Langchain-JS\",\"3 years\"\n\"React\",\"year\"\n\"Vite\",\"year\"\n\"TypeORM\",\"year\"\n\"Databases and Infrastructure\",\"\"\n\"Postgres\",\"5 years\"\n\"MongoDB\",\"3 years\"\n\"Kafka\",\"4 years\"\n\"AWS\",\"5 years\"\n\"Docker\",\"5 years\"",
+          "bBox": {
+            "x": 25,
+            "y": 62,
+            "w": 1027,
+            "h": 1447
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Soft Skills",
+          "md": "# Soft Skills",
+          "bBox": {
+            "x": 27,
+            "y": 540,
+            "w": 134,
+            "h": 831
+          }
+        },
+        {
+          "type": "text",
+          "value": "- Strong client communication &#x26; technical consulting abilities\n- Problem-solving &#x26; critical thinking in data-driven projects\n- Experience in collaborating with technical &#x26; non-technical stakeholders\n- Ability to manage multiple projects in fast-paced environments\n- Proven leadership and mentoring abilities",
+          "md": "- Strong client communication &#x26; technical consulting abilities\n- Problem-solving &#x26; critical thinking in data-driven projects\n- Experience in collaborating with technical &#x26; non-technical stakeholders\n- Ability to manage multiple projects in fast-paced environments\n- Proven leadership and mentoring abilities",
+          "bBox": {
+            "x": 61,
+            "y": 1449,
+            "w": 641,
+            "h": 60
+          }
+        }
+      ],
+      "status": "OK",
+      "originalOrientationAngle": 0,
+      "links": [],
+      "width": 595,
+      "height": 842,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false,
+      "pageHeaderMarkdown": "\n# Alon Parag\n\n# Al Engineer &#x26; Full Stack Engineer\n\nPhone: +49 176 467 80419\n\nEmail: allonparag@gmail.com\n\nLinkedin: https://linkedin.com/in/alon-parag\n\nGithub: https://github.com/alonoparag\n\n",
+      "pageFooterMarkdown": "\n",
+      "confidence": 0.96
+    },
+    {
+      "page": 2,
+      "text": "Experience\nAttunement    Alon Parag Paphos, Cyprus 01/2025                Present\n Al Engineer\n Key Responsibilities:\n  Consulting clients on Al enabled projects\n  Providing hands on support\n Technologies:\n Python. Typescript; Langchain; Pydantic, FastAPI, NestJS; React; Postres, MongoDB, AWS, Docker\nTAIWA GmbH | Berlin, Germany_ 07/2023       02/2025\n Al Engineer\n Key Responsibilities:\n  Develop TAIWA Al service\n  Design and develop TAIWA data analytics platform\n  Lead Al and Data delivery schedule\n  Lead research efforts into new technology:\n  Mentor and guide other Al team members_\n  Present Al and Data solutions to the entire company\n Notable contributions and achievements\n  Design and development of the Al service from the ground up.\n  Design and development the data analytics service from ingestion to delivery:\n  Research and implementation of RAG for Taiwa service\n  Implementation of custom GenAI use-case for organizational training:\n  Identified opportunity for infrastructure cost reduction which saved 50% on costs_\n  Providing ongoing support for backend development\nTechnologies:\n Python. Typescript; Langchain; Pydantic, FastAPI; NestJS; Postres, MongoDB, AWS, Docker; Datadog\nSparrow GmbH Berlin, Germany 04/2023        07/2023\n Data Engineer\n Key Responsibilities:\n  Defining and developing automations for cleaning and structuring complex unstructured data from\n  global and European manufacturers and suppliers.\n Contribution:\n  Built automated scrapers to populate customers spare parts catalog:\n Transitioned to an Al Engineer role for further career growth.\nTechnologies:\n Python, Postgres",
+      "md": "\n# Experience\n\n# Attunement\n\nAlon Parag\n\nPaphos, Cyprus\n\n01/2025 - Present\n\n# Al Engineer\n\n# Key Responsibilities:\n\n- Consulting clients on Al enabled projects\n- Providing hands on support\n\n# Technologies:\n\nPython, Typescript, Langchain, Pydantic, FastAPI, NestJS, React, Postgres, MongoDB, AWS, Docker\n\n# TAIWA GmbH\n\nBerlin, Germany\n\n07/2023 - 02/2025\n\n# Al Engineer\n\n# Key Responsibilities:\n\n- Develop TAIWA Al service\n- Design and develop TAIWA data analytics platform\n- Lead Al and Data delivery schedule\n- Lead research efforts into new technology\n- Mentor and guide other Al team members\n- Present Al and Data solutions to the entire company\n\n# Notable contributions and achievements:\n\n- Design and development of the Al service from the ground up.\n- Design and development the data analytics service from ingestion to delivery.\n- Research and implementation of RAG for Taiwa service.\n- Implementation of custom GenAI use-case for organizational training.\n- Identified opportunity for infrastructure cost reduction which saved 50% on costs.\n- Providing ongoing support for backend development.\n\n# Technologies:\n\nPython, Typescript, Langchain, Pydantic, FastAPI, NestJS, Postgres, MongoDB, AWS, Docker, Datadog\n\n# Sparrow GmbH\n\nBerlin, Germany\n\n04/2023 - 07/2023\n\n# Data Engineer\n\n# Key Responsibilities:\n\n- Defining and developing automations for cleaning and structuring complex unstructured data from global and European manufacturers and suppliers.\n\n# Contribution:\n\n- Built automated scrapers to populate customers spare parts catalog.\n- Transitioned to an Al Engineer role for further career growth.\n\n# Technologies:\n\nPython, Postgres\n\n",
+      "images": [
+        {
+          "name": "page_2.jpg",
+          "height": 842,
+          "width": 595,
+          "x": 0,
+          "y": 0,
+          "original_width": 1131,
+          "original_height": 1600,
+          "type": "full_page_screenshot",
+          "ocr": [
+            {
+              "x": 26,
+              "y": 58,
+              "w": 163,
+              "h": 44,
+              "confidence": 0.9998778968805377,
+              "text": "Experience"
+            },
+            {
+              "x": 27,
+              "y": 127,
+              "w": 151,
+              "h": 32,
+              "confidence": 0.9999187604280771,
+              "text": "Attunement"
+            },
+            {
+              "x": 195,
+              "y": 125,
+              "w": 143,
+              "h": 39,
+              "confidence": 0.9999015490608327,
+              "text": "Alon Parag"
+            },
+            {
+              "x": 347,
+              "y": 127,
+              "w": 198,
+              "h": 38,
+              "confidence": 0.6806773514399449,
+              "text": "Paphos, Cyprus"
+            },
+            {
+              "x": 556,
+              "y": 128,
+              "w": 110,
+              "h": 32,
+              "confidence": 0.9999842751102511,
+              "text": "01/2025"
+            },
+            {
+              "x": 686,
+              "y": 126,
+              "w": 105,
+              "h": 36,
+              "confidence": 0.999907528043352,
+              "text": "Present"
+            },
+            {
+              "x": 28,
+              "y": 163,
+              "w": 122,
+              "h": 33,
+              "confidence": 0.8412033511027804,
+              "text": "Al Engineer"
+            },
+            {
+              "x": 28,
+              "y": 206,
+              "w": 214,
+              "h": 30,
+              "confidence": 0.6776310201388287,
+              "text": "Key Responsibilities:"
+            },
+            {
+              "x": 62,
+              "y": 234,
+              "w": 420,
+              "h": 30,
+              "confidence": 0.7576818517503213,
+              "text": "Consulting clients on Al enabled projects"
+            },
+            {
+              "x": 60,
+              "y": 255,
+              "w": 289,
+              "h": 37,
+              "confidence": 0.9983228383591443,
+              "text": "Providing hands on support"
+            },
+            {
+              "x": 28,
+              "y": 314,
+              "w": 146,
+              "h": 28,
+              "confidence": 0.9670808497255431,
+              "text": "Technologies:"
+            },
+            {
+              "x": 28,
+              "y": 338,
+              "w": 990,
+              "h": 33,
+              "confidence": 0.514601806351696,
+              "text": "Python. Typescript; Langchain; Pydantic, FastAPI, NestJS; React; Postres, MongoDB, AWS, Docker"
+            },
+            {
+              "x": 27,
+              "y": 393,
+              "w": 388,
+              "h": 40,
+              "confidence": 0.8694271883082322,
+              "text": "TAIWA GmbH | Berlin, Germany_"
+            },
+            {
+              "x": 424,
+              "y": 398,
+              "w": 112,
+              "h": 30,
+              "confidence": 0.6513075332758842,
+              "text": "07/2023"
+            },
+            {
+              "x": 556,
+              "y": 396,
+              "w": 110,
+              "h": 32,
+              "confidence": 0.9612266578656145,
+              "text": "02/2025"
+            },
+            {
+              "x": 28,
+              "y": 436,
+              "w": 122,
+              "h": 28,
+              "confidence": 0.7038381784909499,
+              "text": "Al Engineer"
+            },
+            {
+              "x": 28,
+              "y": 476,
+              "w": 214,
+              "h": 28,
+              "confidence": 0.8147190823777505,
+              "text": "Key Responsibilities:"
+            },
+            {
+              "x": 61,
+              "y": 501,
+              "w": 273,
+              "h": 31,
+              "confidence": 0.8959040967559205,
+              "text": "Develop TAIWA Al service"
+            },
+            {
+              "x": 62,
+              "y": 528,
+              "w": 518,
+              "h": 32,
+              "confidence": 0.6473235840195899,
+              "text": "Design and develop TAIWA data analytics platform"
+            },
+            {
+              "x": 62,
+              "y": 554,
+              "w": 361,
+              "h": 32,
+              "confidence": 0.7845492965446711,
+              "text": "Lead Al and Data delivery schedule"
+            },
+            {
+              "x": 62,
+              "y": 580,
+              "w": 436,
+              "h": 32,
+              "confidence": 0.7394396197394203,
+              "text": "Lead research efforts into new technology:"
+            },
+            {
+              "x": 64,
+              "y": 608,
+              "w": 428,
+              "h": 30,
+              "confidence": 0.707624245638573,
+              "text": "Mentor and guide other Al team members_"
+            },
+            {
+              "x": 62,
+              "y": 636,
+              "w": 532,
+              "h": 29,
+              "confidence": 0.7365435904326395,
+              "text": "Present Al and Data solutions to the entire company"
+            },
+            {
+              "x": 28,
+              "y": 690,
+              "w": 416,
+              "h": 26,
+              "confidence": 0.6374111920789924,
+              "text": "Notable contributions and achievements"
+            },
+            {
+              "x": 61,
+              "y": 713,
+              "w": 634,
+              "h": 36,
+              "confidence": 0.9015227478066646,
+              "text": "Design and development of the Al service from the ground up."
+            },
+            {
+              "x": 62,
+              "y": 740,
+              "w": 787,
+              "h": 33,
+              "confidence": 0.8159839533424491,
+              "text": "Design and development the data analytics service from ingestion to delivery:"
+            },
+            {
+              "x": 62,
+              "y": 768,
+              "w": 566,
+              "h": 30,
+              "confidence": 0.698980765169691,
+              "text": "Research and implementation of RAG for Taiwa service"
+            },
+            {
+              "x": 59,
+              "y": 791,
+              "w": 710,
+              "h": 37,
+              "confidence": 0.9051475935184061,
+              "text": "Implementation of custom GenAI use-case for organizational training:"
+            },
+            {
+              "x": 60,
+              "y": 822,
+              "w": 826,
+              "h": 30,
+              "confidence": 0.8351220074286895,
+              "text": "Identified opportunity for infrastructure cost reduction which saved 50% on costs_"
+            },
+            {
+              "x": 62,
+              "y": 848,
+              "w": 538,
+              "h": 32,
+              "confidence": 0.8713408277557965,
+              "text": "Providing ongoing support for backend development"
+            },
+            {
+              "x": 26,
+              "y": 902,
+              "w": 148,
+              "h": 28,
+              "confidence": 0.9106896100610317,
+              "text": "Technologies:"
+            },
+            {
+              "x": 28,
+              "y": 926,
+              "w": 1012,
+              "h": 33,
+              "confidence": 0.3172873722802451,
+              "text": "Python. Typescript; Langchain; Pydantic, FastAPI; NestJS; Postres, MongoDB, AWS, Docker; Datadog"
+            },
+            {
+              "x": 27,
+              "y": 985,
+              "w": 190,
+              "h": 36,
+              "confidence": 0.9987096002905077,
+              "text": "Sparrow GmbH"
+            },
+            {
+              "x": 229,
+              "y": 984,
+              "w": 202,
+              "h": 39,
+              "confidence": 0.7924843515337547,
+              "text": "Berlin, Germany"
+            },
+            {
+              "x": 442,
+              "y": 986,
+              "w": 112,
+              "h": 32,
+              "confidence": 0.6536089222397748,
+              "text": "04/2023"
+            },
+            {
+              "x": 574,
+              "y": 986,
+              "w": 110,
+              "h": 32,
+              "confidence": 0.9999444443732461,
+              "text": "07/2023"
+            },
+            {
+              "x": 28,
+              "y": 1024,
+              "w": 148,
+              "h": 30,
+              "confidence": 0.9591554384267594,
+              "text": "Data Engineer"
+            },
+            {
+              "x": 28,
+              "y": 1058,
+              "w": 214,
+              "h": 30,
+              "confidence": 0.916291086283093,
+              "text": "Key Responsibilities:"
+            },
+            {
+              "x": 59,
+              "y": 1080,
+              "w": 1002,
+              "h": 39,
+              "confidence": 0.9838279197482226,
+              "text": "Defining and developing automations for cleaning and structuring complex unstructured data from"
+            },
+            {
+              "x": 58,
+              "y": 1106,
+              "w": 521,
+              "h": 38,
+              "confidence": 0.637552512249418,
+              "text": "global and European manufacturers and suppliers."
+            },
+            {
+              "x": 27,
+              "y": 1162,
+              "w": 137,
+              "h": 30,
+              "confidence": 0.8465729239849763,
+              "text": "Contribution:"
+            },
+            {
+              "x": 61,
+              "y": 1187,
+              "w": 701,
+              "h": 36,
+              "confidence": 0.7854697487391081,
+              "text": "Built automated scrapers to populate customers spare parts catalog:"
+            },
+            {
+              "x": 27,
+              "y": 1241,
+              "w": 595,
+              "h": 36,
+              "confidence": 0.7259473834060165,
+              "text": "Transitioned to an Al Engineer role for further career growth."
+            },
+            {
+              "x": 26,
+              "y": 1298,
+              "w": 150,
+              "h": 30,
+              "confidence": 0.9863066683232603,
+              "text": "Technologies:"
+            },
+            {
+              "x": 28,
+              "y": 1323,
+              "w": 178,
+              "h": 32,
+              "confidence": 0.6940567616896315,
+              "text": "Python, Postgres"
+            }
+          ]
+        }
+      ],
+      "charts": [],
+      "items": [
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Experience",
+          "md": "# Experience",
+          "bBox": {
+            "x": 26,
+            "y": 58,
+            "w": 163,
+            "h": 44
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Attunement",
+          "md": "# Attunement",
+          "bBox": {
+            "x": 27,
+            "y": 127,
+            "w": 151,
+            "h": 32
+          }
+        },
+        {
+          "type": "text",
+          "value": "Alon Parag\n\nPaphos, Cyprus\n\n01/2025 - Present",
+          "md": "Alon Parag\n\nPaphos, Cyprus\n\n01/2025 - Present",
+          "bBox": {
+            "x": 686,
+            "y": 126,
+            "w": 105,
+            "h": 36
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Al Engineer",
+          "md": "# Al Engineer",
+          "bBox": {
+            "x": 28,
+            "y": 163,
+            "w": 122,
+            "h": 301
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Key Responsibilities:",
+          "md": "# Key Responsibilities:",
+          "bBox": {
+            "x": 28,
+            "y": 206,
+            "w": 214,
+            "h": 882
+          }
+        },
+        {
+          "type": "text",
+          "value": "- Consulting clients on Al enabled projects\n- Providing hands on support",
+          "md": "- Consulting clients on Al enabled projects\n- Providing hands on support",
+          "bBox": {
+            "x": 60,
+            "y": 234,
+            "w": 422,
+            "h": 58
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Technologies:",
+          "md": "# Technologies:",
+          "bBox": {
+            "x": 26,
+            "y": 314,
+            "w": 150,
+            "h": 1014
+          }
+        },
+        {
+          "type": "text",
+          "value": "Python, Typescript, Langchain, Pydantic, FastAPI, NestJS, React, Postgres, MongoDB, AWS, Docker",
+          "md": "Python, Typescript, Langchain, Pydantic, FastAPI, NestJS, React, Postgres, MongoDB, AWS, Docker",
+          "bBox": {
+            "x": 0,
+            "y": 0,
+            "w": 595,
+            "h": 842
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "TAIWA GmbH",
+          "md": "# TAIWA GmbH",
+          "bBox": {
+            "x": 0,
+            "y": 0,
+            "w": 595,
+            "h": 842
+          }
+        },
+        {
+          "type": "text",
+          "value": "Berlin, Germany\n\n07/2023 - 02/2025",
+          "md": "Berlin, Germany\n\n07/2023 - 02/2025",
+          "bBox": {
+            "x": 556,
+            "y": 396,
+            "w": 128,
+            "h": 622
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Al Engineer",
+          "md": "# Al Engineer",
+          "bBox": {
+            "x": 28,
+            "y": 163,
+            "w": 122,
+            "h": 301
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Key Responsibilities:",
+          "md": "# Key Responsibilities:",
+          "bBox": {
+            "x": 28,
+            "y": 206,
+            "w": 214,
+            "h": 882
+          }
+        },
+        {
+          "type": "text",
+          "value": "- Develop TAIWA Al service\n- Design and develop TAIWA data analytics platform\n- Lead Al and Data delivery schedule\n- Lead research efforts into new technology\n- Mentor and guide other Al team members\n- Present Al and Data solutions to the entire company",
+          "md": "- Develop TAIWA Al service\n- Design and develop TAIWA data analytics platform\n- Lead Al and Data delivery schedule\n- Lead research efforts into new technology\n- Mentor and guide other Al team members\n- Present Al and Data solutions to the entire company",
+          "bBox": {
+            "x": 61,
+            "y": 126,
+            "w": 730,
+            "h": 539
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Notable contributions and achievements:",
+          "md": "# Notable contributions and achievements:",
+          "bBox": {
+            "x": 28,
+            "y": 690,
+            "w": 416,
+            "h": 26
+          }
+        },
+        {
+          "type": "text",
+          "value": "- Design and development of the Al service from the ground up.\n- Design and development the data analytics service from ingestion to delivery.\n- Research and implementation of RAG for Taiwa service.\n- Implementation of custom GenAI use-case for organizational training.\n- Identified opportunity for infrastructure cost reduction which saved 50% on costs.\n- Providing ongoing support for backend development.",
+          "md": "- Design and development of the Al service from the ground up.\n- Design and development the data analytics service from ingestion to delivery.\n- Research and implementation of RAG for Taiwa service.\n- Implementation of custom GenAI use-case for organizational training.\n- Identified opportunity for infrastructure cost reduction which saved 50% on costs.\n- Providing ongoing support for backend development.",
+          "bBox": {
+            "x": 61,
+            "y": 713,
+            "w": 634,
+            "h": 167
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Technologies:",
+          "md": "# Technologies:",
+          "bBox": {
+            "x": 26,
+            "y": 314,
+            "w": 150,
+            "h": 1014
+          }
+        },
+        {
+          "type": "text",
+          "value": "Python, Typescript, Langchain, Pydantic, FastAPI, NestJS, Postgres, MongoDB, AWS, Docker, Datadog",
+          "md": "Python, Typescript, Langchain, Pydantic, FastAPI, NestJS, Postgres, MongoDB, AWS, Docker, Datadog",
+          "bBox": {
+            "x": 0,
+            "y": 0,
+            "w": 595,
+            "h": 842
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Sparrow GmbH",
+          "md": "# Sparrow GmbH",
+          "bBox": {
+            "x": 0,
+            "y": 0,
+            "w": 595,
+            "h": 842
+          }
+        },
+        {
+          "type": "text",
+          "value": "Berlin, Germany\n\n04/2023 - 07/2023",
+          "md": "Berlin, Germany\n\n04/2023 - 07/2023",
+          "bBox": {
+            "x": 574,
+            "y": 986,
+            "w": 110,
+            "h": 32
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Data Engineer",
+          "md": "# Data Engineer",
+          "bBox": {
+            "x": 28,
+            "y": 1024,
+            "w": 148,
+            "h": 30
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Key Responsibilities:",
+          "md": "# Key Responsibilities:",
+          "bBox": {
+            "x": 28,
+            "y": 206,
+            "w": 214,
+            "h": 882
+          }
+        },
+        {
+          "type": "text",
+          "value": "- Defining and developing automations for cleaning and structuring complex unstructured data from global and European manufacturers and suppliers.",
+          "md": "- Defining and developing automations for cleaning and structuring complex unstructured data from global and European manufacturers and suppliers.",
+          "bBox": {
+            "x": 58,
+            "y": 1080,
+            "w": 1003,
+            "h": 64
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Contribution:",
+          "md": "# Contribution:",
+          "bBox": {
+            "x": 27,
+            "y": 1162,
+            "w": 137,
+            "h": 30
+          }
+        },
+        {
+          "type": "text",
+          "value": "- Built automated scrapers to populate customers spare parts catalog.\n- Transitioned to an Al Engineer role for further career growth.",
+          "md": "- Built automated scrapers to populate customers spare parts catalog.\n- Transitioned to an Al Engineer role for further career growth.",
+          "bBox": {
+            "x": 27,
+            "y": 163,
+            "w": 595,
+            "h": 1114
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Technologies:",
+          "md": "# Technologies:",
+          "bBox": {
+            "x": 26,
+            "y": 314,
+            "w": 150,
+            "h": 1014
+          }
+        },
+        {
+          "type": "text",
+          "value": "Python, Postgres",
+          "md": "Python, Postgres",
+          "bBox": {
+            "x": 28,
+            "y": 1323,
+            "w": 178,
+            "h": 32
+          }
+        }
+      ],
+      "status": "OK",
+      "originalOrientationAngle": 0,
+      "links": [],
+      "width": 595,
+      "height": 842,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false,
+      "pageHeaderMarkdown": "",
+      "pageFooterMarkdown": "",
+      "confidence": 0.99
+    },
+    {
+      "page": 3,
+      "text": "Experience\nwefox GmbH Berlin, Germany 11/2021            04/2023\n Data Platform Engineer\n Kex Responsibilities:\n  Developing and maintaining wefoxs data platform's ingestion tool.\n  Ensure data observability for Bl developers:\n  Support Bl developers and other users of the data platform:\n  Mentor new engineers\n Notable contributions and achievements:\n  Designing and building a generic ingestion tool to handle more than a 100 data sources of different\n  types_\n  Implemented data observability solutions and enhanced system reliability:\n  Introduced data historization methods such as type-2 historisation to our data warehouse\nTechnologies:\nPython; Airflow, Kafka, Postgres, Snowflake; dbt; Docker; AWS; Grafana, Prometheus\n\nBootcamp\nCode Academy Berlin | Berlin; Germany | 04/2021 09/2021\n Data Engineering Bootcamp\n   Data Analysis\n   Data Visualization\n   Machine Learning\n   Data Engineering\nOnline Courses\nKaggle\n  Intermediate Machine Learning\n  Advanced SQL\n  Feature Engineering\n  Time Series & Forecasting\n Other Certifications\n  Machine Learning Specialization\n  IBM Data Science Foundation\n\nLanguages                               Hebrew Native\n English Native  German Fluent (C1)\n\nOpen Source Contribution\n  Expanding langchain-aws to support async-documentdb vectorstore",
+      "md": "\nExperience\n\n# wefox GmbH Berlin, Germany\n\n11/2021 - 04/2023\n\n# Data Platform Engineer\n\n# Responsibilities:\n\n- Developing and maintaining wefox's data platform's ingestion tool.\n- Ensure data observability for BI developers.\n- Support BI developers and other users of the data platform.\n- Mentor new engineers.\n\n# Notable contributions and achievements:\n\n- Designing and building a generic ingestion tool to handle more than 100 data sources of different types.\n- Implemented data observability solutions and enhanced system reliability.\n- Introduced data historization methods such as type-2 historization to our data warehouse.\n\n# Technologies:\n\nPython; Airflow; Kafka; Postgres; Snowflake; dbt; Docker; AWS; Grafana; Prometheus\n\n# Bootcamp\n\n# Code Academy Berlin\n\nBerlin, Germany\n\n04/2021 - 09/2021\n\n# Data Engineering Bootcamp\n\n- Data Analysis\n- Data Visualization\n- Machine Learning\n- Data Engineering\n\n# Online Courses\n\n# Kaggle\n\n- Intermediate Machine Learning\n- Advanced SQL\n- Feature Engineering\n- Time Series &#x26; Forecasting\n\n# Other Certifications\n\n- Machine Learning Specialization\n- IBM Data Science Foundation\n\n# Languages\n\n- Hebrew - Native\n- English - Native\n- German - Fluent (C1)\n\n# Open Source Contribution\n\nExpanding langchain-aws to support async-documentdb vectorstore.\n\n",
+      "images": [
+        {
+          "name": "page_3.jpg",
+          "height": 842,
+          "width": 595,
+          "x": 0,
+          "y": 0,
+          "original_width": 1131,
+          "original_height": 1600,
+          "type": "full_page_screenshot",
+          "ocr": [
+            {
+              "x": 26,
+              "y": 90,
+              "w": 163,
+              "h": 44,
+              "confidence": 0.9999469967977096,
+              "text": "Experience"
+            },
+            {
+              "x": 27,
+              "y": 147,
+              "w": 184,
+              "h": 36,
+              "confidence": 0.9910746723623993,
+              "text": "wefox GmbH"
+            },
+            {
+              "x": 225,
+              "y": 146,
+              "w": 232,
+              "h": 41,
+              "confidence": 0.9850446451787351,
+              "text": "Berlin, Germany"
+            },
+            {
+              "x": 471,
+              "y": 147,
+              "w": 122,
+              "h": 36,
+              "confidence": 0.7357298567729513,
+              "text": "11/2021"
+            },
+            {
+              "x": 618,
+              "y": 146,
+              "w": 126,
+              "h": 36,
+              "confidence": 0.9074003509646523,
+              "text": "04/2023"
+            },
+            {
+              "x": 28,
+              "y": 188,
+              "w": 242,
+              "h": 32,
+              "confidence": 0.8404258874238955,
+              "text": "Data Platform Engineer"
+            },
+            {
+              "x": 70,
+              "y": 224,
+              "w": 172,
+              "h": 28,
+              "confidence": 0.9969826589485312,
+              "text": "Responsibilities:"
+            },
+            {
+              "x": 61,
+              "y": 248,
+              "w": 673,
+              "h": 33,
+              "confidence": 0.8092218617508279,
+              "text": "Developing and maintaining wefoxs data platform's ingestion tool."
+            },
+            {
+              "x": 62,
+              "y": 274,
+              "w": 444,
+              "h": 32,
+              "confidence": 0.7148602162734227,
+              "text": "Ensure data observability for Bl developers:"
+            },
+            {
+              "x": 60,
+              "y": 299,
+              "w": 609,
+              "h": 37,
+              "confidence": 0.8074770840963659,
+              "text": "Support Bl developers and other users of the data platform:"
+            },
+            {
+              "x": 64,
+              "y": 332,
+              "w": 230,
+              "h": 28,
+              "confidence": 0.9999785149726682,
+              "text": "Mentor new engineers"
+            },
+            {
+              "x": 28,
+              "y": 384,
+              "w": 422,
+              "h": 26,
+              "confidence": 0.6404504327264169,
+              "text": "Notable contributions and achievements:"
+            },
+            {
+              "x": 61,
+              "y": 405,
+              "w": 1006,
+              "h": 38,
+              "confidence": 0.7268280534499744,
+              "text": "Designing and building a generic ingestion tool to handle more than a 100 data sources of different"
+            },
+            {
+              "x": 60,
+              "y": 440,
+              "w": 64,
+              "h": 26,
+              "confidence": 0.9749533070460902,
+              "text": "types_"
+            },
+            {
+              "x": 59,
+              "y": 460,
+              "w": 754,
+              "h": 36,
+              "confidence": 0.6800490551082156,
+              "text": "Implemented data observability solutions and enhanced system reliability:"
+            },
+            {
+              "x": 60,
+              "y": 489,
+              "w": 912,
+              "h": 32,
+              "confidence": 0.8881636275883419,
+              "text": "Introduced data historization methods such as type-2 historisation to our data warehouse"
+            },
+            {
+              "x": 24,
+              "y": 539,
+              "w": 155,
+              "h": 37,
+              "confidence": 0.9927529551281634,
+              "text": "Technologies:"
+            },
+            {
+              "x": 27,
+              "y": 565,
+              "w": 849,
+              "h": 37,
+              "confidence": 0.5202662371493106,
+              "text": "Python; Airflow, Kafka, Postgres, Snowflake; dbt; Docker; AWS; Grafana, Prometheus"
+            },
+            {
+              "x": 26,
+              "y": 699,
+              "w": 149,
+              "h": 40,
+              "confidence": 0.9998663907929738,
+              "text": "Bootcamp"
+            },
+            {
+              "x": 27,
+              "y": 735,
+              "w": 602,
+              "h": 42,
+              "confidence": 0.583219393185609,
+              "text": "Code Academy Berlin | Berlin; Germany | 04/2021"
+            },
+            {
+              "x": 650,
+              "y": 740,
+              "w": 110,
+              "h": 30,
+              "confidence": 0.9999154270884609,
+              "text": "09/2021"
+            },
+            {
+              "x": 28,
+              "y": 772,
+              "w": 288,
+              "h": 30,
+              "confidence": 0.7920277288080496,
+              "text": "Data Engineering Bootcamp"
+            },
+            {
+              "x": 96,
+              "y": 800,
+              "w": 144,
+              "h": 28,
+              "confidence": 0.9983056764806169,
+              "text": "Data Analysis"
+            },
+            {
+              "x": 96,
+              "y": 826,
+              "w": 188,
+              "h": 26,
+              "confidence": 0.7449498622302865,
+              "text": "Data Visualization"
+            },
+            {
+              "x": 98,
+              "y": 852,
+              "w": 184,
+              "h": 30,
+              "confidence": 0.9068274833172475,
+              "text": "Machine Learning"
+            },
+            {
+              "x": 96,
+              "y": 877,
+              "w": 178,
+              "h": 33,
+              "confidence": 0.9280666475168227,
+              "text": "Data Engineering"
+            },
+            {
+              "x": 27,
+              "y": 937,
+              "w": 218,
+              "h": 36,
+              "confidence": 0.9098637594719847,
+              "text": "Online Courses"
+            },
+            {
+              "x": 27,
+              "y": 977,
+              "w": 94,
+              "h": 36,
+              "confidence": 0.9733805184955407,
+              "text": "Kaggle"
+            },
+            {
+              "x": 60,
+              "y": 1010,
+              "w": 322,
+              "h": 30,
+              "confidence": 0.7941074081327518,
+              "text": "Intermediate Machine Learning"
+            },
+            {
+              "x": 62,
+              "y": 1036,
+              "w": 154,
+              "h": 30,
+              "confidence": 0.6960456498350106,
+              "text": "Advanced SQL"
+            },
+            {
+              "x": 62,
+              "y": 1064,
+              "w": 206,
+              "h": 30,
+              "confidence": 0.943498204501416,
+              "text": "Feature Engineering"
+            },
+            {
+              "x": 62,
+              "y": 1089,
+              "w": 270,
+              "h": 31,
+              "confidence": 0.7700177719807128,
+              "text": "Time Series & Forecasting"
+            },
+            {
+              "x": 28,
+              "y": 1122,
+              "w": 246,
+              "h": 32,
+              "confidence": 0.8735769885945399,
+              "text": "Other Certifications"
+            },
+            {
+              "x": 64,
+              "y": 1153,
+              "w": 332,
+              "h": 33,
+              "confidence": 0.6445070487545882,
+              "text": "Machine Learning Specialization"
+            },
+            {
+              "x": 60,
+              "y": 1182,
+              "w": 306,
+              "h": 26,
+              "confidence": 0.9400590214468327,
+              "text": "IBM Data Science Foundation"
+            },
+            {
+              "x": 26,
+              "y": 1270,
+              "w": 161,
+              "h": 43,
+              "confidence": 0.8452302543672571,
+              "text": "Languages"
+            },
+            {
+              "x": 28,
+              "y": 1312,
+              "w": 152,
+              "h": 32,
+              "confidence": 0.7277016706924937,
+              "text": "English Native"
+            },
+            {
+              "x": 234,
+              "y": 1312,
+              "w": 206,
+              "h": 32,
+              "confidence": 0.8311324993642946,
+              "text": "German Fluent (C1)"
+            },
+            {
+              "x": 494,
+              "y": 1311,
+              "w": 156,
+              "h": 29,
+              "confidence": 0.9978904260118786,
+              "text": "Hebrew Native"
+            },
+            {
+              "x": 27,
+              "y": 1401,
+              "w": 364,
+              "h": 40,
+              "confidence": 0.9409811881688189,
+              "text": "Open Source Contribution"
+            },
+            {
+              "x": 62,
+              "y": 1442,
+              "w": 694,
+              "h": 33,
+              "confidence": 0.7024832209954688,
+              "text": "Expanding langchain-aws to support async-documentdb vectorstore"
+            },
+            {
+              "x": 28.923062762073393,
+              "y": 221.1999631813908,
+              "w": 39.15387447585321,
+              "h": 31.600073637218372,
+              "confidence": 0.6751978190062797,
+              "text": "Kex"
+            }
+          ]
+        }
+      ],
+      "charts": [],
+      "items": [
+        {
+          "type": "text",
+          "value": "Experience",
+          "md": "Experience",
+          "bBox": {
+            "x": 26,
+            "y": 90,
+            "w": 163,
+            "h": 44
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "wefox GmbH Berlin, Germany",
+          "md": "# wefox GmbH Berlin, Germany",
+          "bBox": {
+            "x": 0,
+            "y": 0,
+            "w": 595,
+            "h": 842
+          }
+        },
+        {
+          "type": "text",
+          "value": "11/2021 - 04/2023",
+          "md": "11/2021 - 04/2023",
+          "bBox": {
+            "x": 618,
+            "y": 146,
+            "w": 126,
+            "h": 36
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Data Platform Engineer",
+          "md": "# Data Platform Engineer",
+          "bBox": {
+            "x": 28,
+            "y": 188,
+            "w": 242,
+            "h": 32
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Responsibilities:",
+          "md": "# Responsibilities:",
+          "bBox": {
+            "x": 0,
+            "y": 0,
+            "w": 595,
+            "h": 842
+          }
+        },
+        {
+          "type": "text",
+          "value": "- Developing and maintaining wefox's data platform's ingestion tool.\n- Ensure data observability for BI developers.\n- Support BI developers and other users of the data platform.\n- Mentor new engineers.",
+          "md": "- Developing and maintaining wefox's data platform's ingestion tool.\n- Ensure data observability for BI developers.\n- Support BI developers and other users of the data platform.\n- Mentor new engineers.",
+          "bBox": {
+            "x": 64,
+            "y": 332,
+            "w": 230,
+            "h": 28
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Notable contributions and achievements:",
+          "md": "# Notable contributions and achievements:",
+          "bBox": {
+            "x": 28,
+            "y": 384,
+            "w": 422,
+            "h": 26
+          }
+        },
+        {
+          "type": "text",
+          "value": "- Designing and building a generic ingestion tool to handle more than 100 data sources of different types.\n- Implemented data observability solutions and enhanced system reliability.\n- Introduced data historization methods such as type-2 historization to our data warehouse.",
+          "md": "- Designing and building a generic ingestion tool to handle more than 100 data sources of different types.\n- Implemented data observability solutions and enhanced system reliability.\n- Introduced data historization methods such as type-2 historization to our data warehouse.",
+          "bBox": {
+            "x": 0,
+            "y": 0,
+            "w": 595,
+            "h": 842
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Technologies:",
+          "md": "# Technologies:",
+          "bBox": {
+            "x": 24,
+            "y": 539,
+            "w": 155,
+            "h": 37
+          }
+        },
+        {
+          "type": "text",
+          "value": "Python; Airflow; Kafka; Postgres; Snowflake; dbt; Docker; AWS; Grafana; Prometheus",
+          "md": "Python; Airflow; Kafka; Postgres; Snowflake; dbt; Docker; AWS; Grafana; Prometheus",
+          "bBox": {
+            "x": 0,
+            "y": 0,
+            "w": 595,
+            "h": 842
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Bootcamp",
+          "md": "# Bootcamp",
+          "bBox": {
+            "x": 26,
+            "y": 699,
+            "w": 149,
+            "h": 40
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Code Academy Berlin",
+          "md": "# Code Academy Berlin",
+          "bBox": {
+            "x": 0,
+            "y": 0,
+            "w": 595,
+            "h": 842
+          }
+        },
+        {
+          "type": "text",
+          "value": "Berlin, Germany\n\n04/2021 - 09/2021",
+          "md": "Berlin, Germany\n\n04/2021 - 09/2021",
+          "bBox": {
+            "x": 650,
+            "y": 740,
+            "w": 110,
+            "h": 30
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Data Engineering Bootcamp",
+          "md": "# Data Engineering Bootcamp",
+          "bBox": {
+            "x": 26,
+            "y": 699,
+            "w": 290,
+            "h": 211
+          }
+        },
+        {
+          "type": "text",
+          "value": "- Data Analysis\n- Data Visualization\n- Machine Learning\n- Data Engineering",
+          "md": "- Data Analysis\n- Data Visualization\n- Machine Learning\n- Data Engineering",
+          "bBox": {
+            "x": 96,
+            "y": 800,
+            "w": 188,
+            "h": 110
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Online Courses",
+          "md": "# Online Courses",
+          "bBox": {
+            "x": 27,
+            "y": 937,
+            "w": 218,
+            "h": 36
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Kaggle",
+          "md": "# Kaggle",
+          "bBox": {
+            "x": 27,
+            "y": 977,
+            "w": 94,
+            "h": 36
+          }
+        },
+        {
+          "type": "text",
+          "value": "- Intermediate Machine Learning\n- Advanced SQL\n- Feature Engineering\n- Time Series &#x26; Forecasting",
+          "md": "- Intermediate Machine Learning\n- Advanced SQL\n- Feature Engineering\n- Time Series &#x26; Forecasting",
+          "bBox": {
+            "x": 60,
+            "y": 852,
+            "w": 322,
+            "h": 242
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Other Certifications",
+          "md": "# Other Certifications",
+          "bBox": {
+            "x": 28,
+            "y": 1122,
+            "w": 246,
+            "h": 32
+          }
+        },
+        {
+          "type": "text",
+          "value": "- Machine Learning Specialization\n- IBM Data Science Foundation",
+          "md": "- Machine Learning Specialization\n- IBM Data Science Foundation",
+          "bBox": {
+            "x": 60,
+            "y": 852,
+            "w": 336,
+            "h": 356
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Languages",
+          "md": "# Languages",
+          "bBox": {
+            "x": 26,
+            "y": 1270,
+            "w": 161,
+            "h": 43
+          }
+        },
+        {
+          "type": "text",
+          "value": "- Hebrew - Native\n- English - Native\n- German - Fluent (C1)",
+          "md": "- Hebrew - Native\n- English - Native\n- German - Fluent (C1)",
+          "bBox": {
+            "x": 0,
+            "y": 0,
+            "w": 595,
+            "h": 842
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Open Source Contribution",
+          "md": "# Open Source Contribution",
+          "bBox": {
+            "x": 27,
+            "y": 1401,
+            "w": 364,
+            "h": 40
+          }
+        },
+        {
+          "type": "text",
+          "value": "Expanding langchain-aws to support async-documentdb vectorstore.",
+          "md": "Expanding langchain-aws to support async-documentdb vectorstore.",
+          "bBox": {
+            "x": 62,
+            "y": 1442,
+            "w": 694,
+            "h": 33
+          }
+        }
+      ],
+      "status": "OK",
+      "originalOrientationAngle": 0,
+      "links": [],
+      "width": 595,
+      "height": 842,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false,
+      "pageHeaderMarkdown": "\nExperience\n",
+      "pageFooterMarkdown": "\n",
+      "confidence": 0.969
+    }
+  ],
+  "job_metadata": {
+    "credits_used": 0,
+    "job_credits_usage": 0,
+    "job_pages": 0,
+    "job_auto_mode_triggered_pages": 0,
+    "job_is_cache_hit": true
+  }
+}

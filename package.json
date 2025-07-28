@@ -1,21 +1,35 @@
 {
   "name": "beamon-ai-test",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Beamon AI take home test",
   "main": "index.js",
   "scripts": {
-    "dev": "npx tsx index.mts"
+    "dev": "npx tsx src/index.mts",
+    "db:start": "docker compose up -d",
+    "db:stop": "docker compose down",
+    "db:clear": "docker compose down -v",
+    "db:load-docs": "npx tsx src/loadDocs.mts",
+    "parse-doc": "npx tsx src/parseDoc.mts"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@chroma-core/default-embed": "^0.1.8",
     "@langchain/community": "^0.3.49",
     "@langchain/core": "^0.3.66",
     "@langchain/groq": "^0.2.3",
     "@langchain/langgraph": "^0.3.11",
-    "@langchain/openai": "0.6.2"
+    "@langchain/openai": "0.6.2",
+    "axios": "^1.11.0",
+    "chromadb": "^3.0.10",
+    "dotenv": "^17.2.1",
+    "form-data": "^4.0.0",
+    "marked": "^16.1.1",
+    "marked-terminal": "^7.3.0",
+    "zod": "^4.0.10"
   },
   "devDependencies": {
+    "@types/form-data": "^2.5.2",
     "@types/node": "^24.1.0"
   }
 }
